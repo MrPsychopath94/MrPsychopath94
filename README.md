@@ -5,12 +5,24 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**Name:** [Marc Ehrlich]
+**Geburtsdatum:** [07.09.1994]
+**Geburtsort:** [Delmenhorst, Deutschland]
+**Wohnort:** [Weyhe, Deutschland]
+**Nationalität:** [Deutsch]
+**Familienstand:** [Verheiratet]
+**Beruf:** [Webentwickler in Ausbildung]
+
+**Aussehen:**
+* **Größe:** [173]
+* **Augenfarbe:** [Blau]
+* **Haarfarbe:** [Braun]
+* **Besondere Merkmale:** [Tattoos]
+
+**Kontakt:**
+* **E-Mail:** [marc.ehrlich@edu.techstarter.de]
+
+
+
+
